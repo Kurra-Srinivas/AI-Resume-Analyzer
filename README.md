@@ -57,10 +57,9 @@ AI Resume Copilot is a GenAI-powered Streamlit application that helps job seeker
 6. Feedback + score is rendered in Streamlit UI with copy option.
 
 ---
-
 ## 🌟 Live Demo
 
-🧪 Try it live: [Streamlit App](https://ai-resume-copilot.streamlit.app/) <!-- Replace after deployment -->
+🧪 Try it live: [AI Resume Analyzer Streamlit App](https://ai-resume-analyzer-p7c3u8xfbcnbfrpm5ra7zy.streamlit.app/)
 
 ---
 ## 🧑‍💼 Author
